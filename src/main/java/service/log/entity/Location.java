@@ -1,4 +1,4 @@
-package ServiceLog.Entity;
+package service.log.entity;
 
 import javax.persistence.*;
 

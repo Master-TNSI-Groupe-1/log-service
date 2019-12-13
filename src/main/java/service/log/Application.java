@@ -1,15 +1,9 @@
-package ServiceLog;
+package service.log;
 
-import ServiceLog.Entity.Attendances;
-import ServiceLog.Entity.Location;
-import ServiceLog.Repository.AttendancesRepository;
-import ServiceLog.Repository.LocationRepository;
-import ServiceLog.Service.LogService;
+import service.log.Service.LogService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
-
-import java.util.Date;
 
 @SpringBootApplication
 public class Application {

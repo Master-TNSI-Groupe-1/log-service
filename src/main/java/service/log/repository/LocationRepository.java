@@ -1,6 +1,6 @@
-package ServiceLog.Repository;
+package service.log.repository;
 
-import ServiceLog.Entity.Location;
+import service.log.entity.Location;
 import org.springframework.data.repository.CrudRepository;
 
 

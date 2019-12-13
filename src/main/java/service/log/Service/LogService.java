@@ -1,9 +1,9 @@
-package ServiceLog.Service;
+package service.log.Service;
 
-import ServiceLog.Entity.Attendances;
-import ServiceLog.Entity.Location;
-import ServiceLog.Repository.AttendancesRepository;
-import ServiceLog.Repository.LocationRepository;
+import service.log.entity.Attendances;
+import service.log.entity.Location;
+import service.log.repository.AttendancesRepository;
+import service.log.repository.LocationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

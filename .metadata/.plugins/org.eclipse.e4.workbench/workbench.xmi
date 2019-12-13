@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<application:ServiceLog.Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_gymu4BzKEeqC9NUABqpjvg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_gymu4RzKEeqC9NUABqpjvg" bindingContexts="_gymu4xzKEeqC9NUABqpjvg">
+<application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_gymu4BzKEeqC9NUABqpjvg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_gymu4RzKEeqC9NUABqpjvg" bindingContexts="_gymu4xzKEeqC9NUABqpjvg">
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList/>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
@@ -1430,7 +1430,7 @@
   <commands xmi:id="_g1K6uhzKEeqC9NUABqpjvg" elementId="org.eclipse.mylyn.tasks.ui.discoveryWizardCommand" commandName="Discovery Wizard" description="shows the connector discovery wizard" category="_g1H3aBzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6uxzKEeqC9NUABqpjvg" elementId="org.eclipse.mylyn.wikitext.ui.convertToDocbookCommand" commandName="Generate Docbook" category="_g1H3aBzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6vBzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.edit.text.goto.textStart" commandName="Text Start" description="Go to the beginning of the text" category="_g1HQWRzKEeqC9NUABqpjvg"/>
-  <commands xmi:id="_g1K6vRzKEeqC9NUABqpjvg" elementId="org.eclipse.eclemma.ui.localJavaShortcut.coverage" commandName="Coverage Java ServiceLog.Application" description="Coverage Java ServiceLog.Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
+  <commands xmi:id="_g1K6vRzKEeqC9NUABqpjvg" elementId="org.eclipse.eclemma.ui.localJavaShortcut.coverage" commandName="Coverage Java Application" description="Coverage Java Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6vhzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.edit.paste" commandName="Paste" description="Paste from the clipboard" category="_g1HQUhzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6vxzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.part.nextPage" commandName="Next Page" description="Switch to the next page" category="_g1HQXBzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6wBzKEeqC9NUABqpjvg" elementId="org.eclipse.jdt.ui.edit.text.java.change.type" commandName="Generalize Declared Type" description="Change the declaration of a selected variable to a more general type consistent with usage" category="_g1HQYxzKEeqC9NUABqpjvg"/>
@@ -1439,7 +1439,7 @@
   <commands xmi:id="_g1K6wxzKEeqC9NUABqpjvg" elementId="org.eclipse.egit.ui.history.CreateBranch" commandName="Create Branch" category="_g1H3aBzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6xBzKEeqC9NUABqpjvg" elementId="org.eclipse.eclemma.ui.exportSession" commandName="Export Session..." category="_g1HQXxzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6xRzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.navigate.previous" commandName="Previous" description="Navigate to the previous item" category="_g1HQXBzKEeqC9NUABqpjvg"/>
-  <commands xmi:id="_g1K6xhzKEeqC9NUABqpjvg" elementId="org.eclipse.eclemma.ui.scalaShortcut.coverage" commandName="Coverage Scala ServiceLog.Application" description="Coverage Scala ServiceLog.Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
+  <commands xmi:id="_g1K6xhzKEeqC9NUABqpjvg" elementId="org.eclipse.eclemma.ui.scalaShortcut.coverage" commandName="Coverage Scala Application" description="Coverage Scala Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6xxzKEeqC9NUABqpjvg" elementId="org.eclipse.egit.ui.team.clean" commandName="Clean..." category="_g1H3YRzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6yBzKEeqC9NUABqpjvg" elementId="org.eclipse.egit.ui.RepositoriesViewClone" commandName="Clone a Git Repository" category="_g1H3YRzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1K6yRzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.edit.rename" commandName="Rename" description="Rename the selected item" category="_g1HQYBzKEeqC9NUABqpjvg"/>
@@ -1500,7 +1500,7 @@
   <commands xmi:id="_g1Lh4BzKEeqC9NUABqpjvg" elementId="org.eclipse.debug.ui.commands.ProfileLast" commandName="Profile" description="Launch in profile mode" category="_g1HQZxzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1Lh4RzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.edit.text.shiftRight" commandName="Shift Right" description="Shift a block of text to the right" category="_g1HQUhzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1Lh4hzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.navigate.backwardHistory" commandName="Backward History" description="Move backward in the editor navigation history" category="_g1HQXBzKEeqC9NUABqpjvg"/>
-  <commands xmi:id="_g1Lh4xzKEeqC9NUABqpjvg" elementId="org.eclipse.eclemma.ui.workbenchShortcut.coverage" commandName="Coverage Eclipse ServiceLog.Application" description="Coverage Eclipse ServiceLog.Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
+  <commands xmi:id="_g1Lh4xzKEeqC9NUABqpjvg" elementId="org.eclipse.eclemma.ui.workbenchShortcut.coverage" commandName="Coverage Eclipse Application" description="Coverage Eclipse Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1Lh5BzKEeqC9NUABqpjvg" elementId="org.eclipse.egit.ui.team.Pull" commandName="Pull" category="_g1H3YRzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1Lh5RzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.edit.text.removeTrailingWhitespace" commandName="Remove Trailing Whitespace" description="Removes the trailing whitespace of each line" category="_g1HQYBzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1MI0BzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.edit.findIncremental" commandName="Incremental Find" description="Incremental find" category="_g1HQUhzKEeqC9NUABqpjvg"/>
@@ -1633,7 +1633,7 @@
     <parameters xmi:id="_g1NXEBzKEeqC9NUABqpjvg" elementId="connectorKind" name="Repository Type"/>
   </commands>
   <commands xmi:id="_g1NXERzKEeqC9NUABqpjvg" elementId="org.eclipse.eclemma.ui.removeAllSessions" commandName="Remove All Sessions" category="_g1HQXxzKEeqC9NUABqpjvg"/>
-  <commands xmi:id="_g1NXEhzKEeqC9NUABqpjvg" elementId="org.eclipse.jdt.debug.ui.localJavaShortcut.run" commandName="Run Java ServiceLog.Application" description="Run Java ServiceLog.Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
+  <commands xmi:id="_g1NXEhzKEeqC9NUABqpjvg" elementId="org.eclipse.jdt.debug.ui.localJavaShortcut.run" commandName="Run Java Application" description="Run Java Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1NXExzKEeqC9NUABqpjvg" elementId="org.eclipse.mylyn.tasks.ui.command.activateTask" commandName="Activate Task" category="_g1HQXBzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1NXFBzKEeqC9NUABqpjvg" elementId="org.eclipse.egit.ui.history.CreateTag" commandName="Create Tag..." category="_g1H3aBzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1NXFRzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.edit.addTask" commandName="Add Task..." description="Add a task" category="_g1HQUhzKEeqC9NUABqpjvg"/>
@@ -1723,7 +1723,7 @@
   <commands xmi:id="_g1OlJhzKEeqC9NUABqpjvg" elementId="org.eclipse.jdt.ui.edit.text.java.extract.local.variable" commandName="Extract Local Variable" description="Extracts an expression into a new local variable and uses the new local variable" category="_g1HQYxzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1OlJxzKEeqC9NUABqpjvg" elementId="org.eclipse.oomph.p2.ui.ExploreRepository" commandName="Explore Repository" category="_g1H3YBzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1OlKBzKEeqC9NUABqpjvg" elementId="org.eclipse.egit.ui.team.InstallLfsLocal" commandName="Enable LFS locally" category="_g1H3YRzKEeqC9NUABqpjvg"/>
-  <commands xmi:id="_g1OlKRzKEeqC9NUABqpjvg" elementId="org.eclipse.jdt.debug.ui.localJavaShortcut.debug" commandName="Debug Java ServiceLog.Application" description="Debug Java ServiceLog.Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
+  <commands xmi:id="_g1OlKRzKEeqC9NUABqpjvg" elementId="org.eclipse.jdt.debug.ui.localJavaShortcut.debug" commandName="Debug Java Application" description="Debug Java Application" category="_g1HQZxzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1OlKhzKEeqC9NUABqpjvg" elementId="org.eclipse.ltk.ui.refactor.show.refactoring.history" commandName="Open Refactoring History " description="Opens the refactoring history" category="_g1HQYxzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1OlKxzKEeqC9NUABqpjvg" elementId="org.eclipse.jdt.ui.edit.text.java.search.read.access.in.hierarchy" commandName="Read Access in Hierarchy" description="Search for read references of the selected element in its hierarchy" category="_g1HQZhzKEeqC9NUABqpjvg"/>
   <commands xmi:id="_g1OlLBzKEeqC9NUABqpjvg" elementId="org.eclipse.ui.navigate.forward" commandName="Forward" description="Navigate forward" category="_g1HQXBzKEeqC9NUABqpjvg"/>
@@ -2345,4 +2345,4 @@
   <categories xmi:id="_g1H3ZhzKEeqC9NUABqpjvg" elementId="org.eclipse.mylyn.commons.repositories.ui.category.Team" name="Team"/>
   <categories xmi:id="_g1H3ZxzKEeqC9NUABqpjvg" elementId="org.eclipse.oomph.commands" name="Oomph"/>
   <categories xmi:id="_g1H3aBzKEeqC9NUABqpjvg" elementId="org.eclipse.core.commands.categories.autogenerated" name="Uncategorized" description="Commands that were either auto-generated or have no category"/>
-</application:ServiceLog.Application>
+</application:Application>

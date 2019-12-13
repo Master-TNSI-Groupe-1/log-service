@@ -1,0 +1,6 @@
+service\log\repository\LocationRepository.class
+service\log\Service\LogService.class
+service\log\Application.class
+service\log\entity\Attendances.class
+service\log\repository\AttendancesRepository.class
+service\log\entity\Location.class

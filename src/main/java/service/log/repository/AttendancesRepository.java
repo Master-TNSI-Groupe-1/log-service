@@ -1,6 +1,6 @@
-package ServiceLog.Repository;
+package service.log.repository;
 
-import ServiceLog.Entity.Attendances;
+import service.log.entity.Attendances;
 import org.springframework.data.repository.CrudRepository;
 
 public interface AttendancesRepository extends CrudRepository<Attendances,Integer>{
