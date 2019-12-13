@@ -49,7 +49,7 @@ public class LogService {
                         Attendances attendancesTempo = new Attendances(datecurrent, s.getNumberUser(), s.getIdlocation(), ticks);
                         lstAjoutAttendances.add(attendancesTempo);
 
-                     
+
                     });
 
                     // Insertion en base de la liste
